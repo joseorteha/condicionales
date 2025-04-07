@@ -115,21 +115,6 @@ Licencia MIT © [José Ortega](https://github.com/joseorteha) 🧑‍💻
 
 ---
 
-### 💡 Tips Pro:
-
-- ¿Quieres agregar diagramas de flujo? Hazlo así:
-  ```markdown
-  ![Mi Diagrama](imagenes/flujo.png)
-  ```
-- ¿Quieres que tu README tenga ejemplos elegantes de código Java? Aquí tienes:
-  ```java
-  if (edad >= 18) {
-      System.out.println("Mayor de edad ✅");
-  } else {
-      System.out.println("Menor de edad ❌");
-  }
-  ```
-
 ---
 
 ## 🙋‍♂️ FAQ - Preguntas Frecuentes
